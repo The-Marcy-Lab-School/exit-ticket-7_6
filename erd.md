@@ -1,0 +1,4 @@
+![alt text](./yelp-ERD.png)
+![alt text](https://github.com/paulsobers23/exit-ticket-7_6/yelp-ERD.png)
+
+The four entites I decided to pick is **Users**, **Review**, **Restaurant**, and **Business**. A user can make zero or many reviews , but every review only have one user so this is an **One to Many** relationship. A restaurant can have zero or more reviews but there may only be one review associated with a user on the restaurant, this is also an **One to Many** relationship. A business can zero or more reviews but there may only be only one review associated with a user on the business, which also makes this a **One to Many** relationship. In this diagram I believe the entity **Review** is the **Cross Reference Table** acting as reference to all of our other entities.
