@@ -1,6 +1,6 @@
 **Yelp ERD**
 
-![yelp erd](exit-ticket-7_6/yelp.png)
+![yelp erd](yelp.png)
 
 - businesses
  - **one to many** relationship with reviews and reservations because there can be many reviews and reservations for a business but each one belongs to a single business.
