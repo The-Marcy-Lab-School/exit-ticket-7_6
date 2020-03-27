@@ -3,7 +3,7 @@
 ![yelp erd](yelp.png)
 
 - businesses
- - **one to many** relationship with reviews and reservations because there can be many reviews and reservations for a business but each one belongs to a single business.
+  - **one to many** relationship with reviews and reservations because there can be many reviews and reservations for a business but each one belongs to a single business.
 - users
   - **one to many** relationship with reviews and reservations because there can be many reviews and reservations but each one belongs to a single user. Users can also make many reservations and reviews.
 
