@@ -3,7 +3,7 @@
 
 ### Diagram
 
-![Entity relationship model](./diagram.png)
+![Entity relationship model](diagram.png)
 
 ### Description
 
