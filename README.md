@@ -26,7 +26,7 @@
 
 **3. EDR**
 
-![Image]('./ticket-7-edr.png', 'Diagram')
+![Image]('https://github.com/emtes/exit-ticket-7_6/blob/master/ticket-7-edr.png', 'Diagram')
 
 **4. EDR Description**
 - A user has a `1 to Many` relationship with a business where to own a business there must be at least 1 user, but a user can have no businesses.
