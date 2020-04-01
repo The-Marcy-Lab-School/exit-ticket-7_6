@@ -1,9 +1,7 @@
 # YELP ERD
      # Entities: Business, User, Review, & Reservation
      
-     
-     
-     ![image info](entityMap.png)
+![image info](entityMap.png)
      
 -- **Businesses**
 > Can have zero or many users, reviews, and reservations.
