@@ -3,7 +3,7 @@
      
      
      
-     ![alt text](./entityMap.png "Title")
+     ![image info](entityMap.png)
      
 -- **Businesses**
 > Can have zero or many users, reviews, and reservations.
